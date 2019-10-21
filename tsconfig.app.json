@@ -10,5 +10,11 @@
   ],
   "include": [
     "src/**/*.d.ts"
-  ]
+  ],
+  "exclude": [
+    "**/*.stories.ts"
+  ],
+  "angularCompilerOptions": {
+    "enableIvy": true
+  }
 }
