@@ -1,6 +1,6 @@
 {
   "name": "with-ivy-with-latest-storybook-declaration-of-two-modules",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "postinstall": "ngcc",
